@@ -8,17 +8,16 @@ To reproduce results:
 
 Results: Following is the results for French to english translation
 
-
-> je ne suis pas si occupe d habitude .
+je ne suis pas si occupe d habitude .
 = i m usually not this busy .
 
-> vous n y etes pas en securite .
+vous n y etes pas en securite .
 = you re not safe here .
 
-> je suis content de mon travail .
+je suis content de mon travail .
 = i m satisfied with my work .
 
-> tu me fais peur .
+tu me fais peur .
 = you re scaring me .
 
 
