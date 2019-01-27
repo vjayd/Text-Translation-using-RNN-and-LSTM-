@@ -6,7 +6,7 @@ To reproduce results:
 1. Download the datasets for language translation from this site.
 2. Set hyperparameters according to your need and run main.py as python main.py
 
-##Results: 
+## Results: 
 Following is the results for French to english translation
 
 je ne suis pas si occupe d habitude .
@@ -22,5 +22,5 @@ tu me fais peur .
 = you re scaring me .
 
 
-##References: 
+## References: 
 Will update soon
