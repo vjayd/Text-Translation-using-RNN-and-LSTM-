@@ -26,6 +26,6 @@ tu me fais peur .
 
 [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)</br>
 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)</br>
-[A Neural Conversational Model](https://arxiv.org/abs/1506.05869)
-[RNN and LSTM in pytorch] (https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+[A Neural Conversational Model](https://arxiv.org/abs/1506.05869)</br>
+[RNN and LSTM in pytorch](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
