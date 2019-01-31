@@ -7,12 +7,7 @@ Created on Thu Jan 24 22:40:05 2019
 """
 
 from io import open
-import unicodedata
-import string
-import re
-import random
 
-import torch
 import torch.nn as nn
 from torch import optim
 import torch.nn.functional as F
@@ -29,4 +24,4 @@ import config as config
 #encoder1 = EncoderRNN(input_lang.n_words, hidden_size).to(device)
 #attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words, dropout_p=0.1).to(device)
 
-tm.trainIters(config.encoder1, config.attn_decoder1, 7500, print_every=500)
+tm.trainIters(config.encoder1, config.attn_decoder1, 75000, print_every=5000)

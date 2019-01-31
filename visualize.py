@@ -1,10 +1,9 @@
-######################################################################
-# Plotting results
-# ----------------
-#
-# Plotting is done with matplotlib, using the array of loss values
-# ``plot_losses`` saved while training.
-#
+"""
+Created on Thu Jan 24 22:40:05 2019
+
+@author: vijay
+"""
+
 
 import matplotlib.pyplot as plt
 plt.switch_backend('Tkagg')
