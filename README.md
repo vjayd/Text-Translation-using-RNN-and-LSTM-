@@ -1,4 +1,4 @@
-# Text-Translation-using-RNN-and-LSTM-
+# Text-Translation-using-RNN-and-GRU-
 Problem : Text to text translation 
 Approach : Used attention mechanism with teacher forcing for more better results.
 
